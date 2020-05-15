@@ -4,3 +4,7 @@
 
 https://favicon.io/favicon-generator/
 
+#icons
+https://www.npmjs.com/package/font-awesome
+
+
