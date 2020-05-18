@@ -1,5 +1,5 @@
-### Javascript-awesome
-
+# Javascript-awesome
+### https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 ## creating favicon
 
 https://favicon.io/favicon-generator/
