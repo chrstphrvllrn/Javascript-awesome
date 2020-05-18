@@ -23,7 +23,17 @@ https://www.npmjs.com/package/font-awesome
     str.camelCase()                 // 'iLikeYellowWaterBaloons'
     ```
     
-2. 
+2. https://html-cleaner.com/case-converter/
+   https://html-cleaner.com/case-converter/js/convertcase.js?y=2019
+   
+  ```javascript
+   const str = 'i like yellow water baloons'
+   sentenceCase(str)
+   alternatingCase(str)
+   randomCase(str)
+   ucwords(str)
+ 
+   ```
 
 
 
