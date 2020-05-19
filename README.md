@@ -99,7 +99,21 @@ https://www.npmjs.com/package/font-awesome
    https://github.com/pqina/filepond
    
 5. https://github.com/blueimp/jQuery-File-Upload
+
+6. https://github.com/richardgirges/express-fileupload
+
+7. https://github.com/devbridge/html5-file-uploader
+
+8. https://github.com/promosis/file-upload-with-preview
    
 # JQuery 
 
 1. https://learn.jquery.com/using-jquery-core/selecting-elements/
+
+
+# Download from Server
+
+1. https://stackoverflow.com/questions/7288814/download-a-file-from-nodejs-server-using-express
+   https://stackoverflow.com/questions/11620698/how-to-trigger-a-file-download-when-clicking-an-html-button-or-javascript
+   
+   
