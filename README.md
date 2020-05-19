@@ -26,6 +26,8 @@ https://www.npmjs.com/package/font-awesome
 2. https://html-cleaner.com/case-converter/
    https://html-cleaner.com/case-converter/js/convertcase.js?y=2019
    
+   
+   
   ```javascript
    const str = 'i like yellow water baloons'
    sentenceCase(str)
@@ -88,4 +90,14 @@ https://www.npmjs.com/package/font-awesome
 # Uploading files
 
 1. https://github.com/taniarascia/upload
+
+2. https://web.dev/read-files/
+
+3. https://github.com/justindn/fileupload
+
+4. https://nielsboogaard.github.io/filepond-plugin-media-preview/
+   https://github.com/pqina/filepond
+   
+5.    
+   
 
