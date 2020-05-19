@@ -100,4 +100,6 @@ https://www.npmjs.com/package/font-awesome
    
 5.    
    
+# JQuery 
 
+1. https://learn.jquery.com/using-jquery-core/selecting-elements/
