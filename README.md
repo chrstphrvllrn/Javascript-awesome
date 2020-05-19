@@ -98,7 +98,7 @@ https://www.npmjs.com/package/font-awesome
 4. https://nielsboogaard.github.io/filepond-plugin-media-preview/
    https://github.com/pqina/filepond
    
-5.    
+5. https://github.com/blueimp/jQuery-File-Upload
    
 # JQuery 
 
