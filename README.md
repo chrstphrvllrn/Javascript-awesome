@@ -85,4 +85,7 @@ https://www.npmjs.com/package/font-awesome
    
    
 
+# Uploading files
+
+1. https://github.com/taniarascia/upload
 
